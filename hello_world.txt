@@ -1,0 +1,7 @@
+Hello world! This is Matthew here! I am learning to program using
+a popular code camp of sorts known as The Odin Project.
+It was made by professionals in the field in order to help
+up-and-coming programmers to get to a level of competency that
+they can perhaps land a job as a junior developer with a set of
+skills that won't embarrass them in an interview setting! Or at least,
+this is what I hope. 
